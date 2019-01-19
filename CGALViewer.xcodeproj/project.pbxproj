@@ -479,10 +479,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = D6F72X72LF;
 				HEADER_SEARCH_PATHS = (
-					/Users/paul/Downloads/CGALViewer/3rd_party/boost_1.62.0,
-					/Users/paul/Downloads/CGALViewer/3rd_party/mpfr_3.1.5/include,
-					/Users/paul/Downloads/CGALViewer/3rd_party/gmp_6.1.2/include,
-					/Users/paul/Downloads/CGALViewer/3rd_party/cgal_4.9/include,
+					$PROJECT_DIR/3rd_party/boost_1.62.0,
+					$PROJECT_DIR/3rd_party/mpfr_3.1.5/include,
+					$PROJECT_DIR/3rd_party/gmp_6.1.2/include,
+					$PROJECT_DIR/3rd_party/cgal_4.9/include,
 				);
 				INFOPLIST_FILE = CGALViewer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -508,10 +508,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = D6F72X72LF;
 				HEADER_SEARCH_PATHS = (
-					/Users/paul/Downloads/CGALViewer/3rd_party/boost_1.62.0,
-					/Users/paul/Downloads/CGALViewer/3rd_party/mpfr_3.1.5/include,
-					/Users/paul/Downloads/CGALViewer/3rd_party/gmp_6.1.2/include,
-					/Users/paul/Downloads/CGALViewer/3rd_party/cgal_4.9/include,
+					$PROJECT_DIR/3rd_party/boost_1.62.0,
+					$PROJECT_DIR/3rd_party/mpfr_3.1.5/include,
+					$PROJECT_DIR/3rd_party/gmp_6.1.2/include,
+					$PROJECT_DIR/3rd_party/cgal_4.9/include,
 				);
 				INFOPLIST_FILE = CGALViewer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
